@@ -1,4 +1,0 @@
-This is the file that lies in the Develop branch 
-Now your task is that first commit in the develop branch
-and then merge in the master branch 
-this is your task
