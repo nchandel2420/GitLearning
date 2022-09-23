@@ -1,0 +1,16 @@
+Git init Command - Create a repo in local
+
+Git status - To know what are modification made in the git repo.
+
+Git add - To add the modified changes in the staging area.
+
+Git Commit - To commit the changes in the repo
+
+Git log - To know about the git commit history of the particular repo
+
+git checkout -b branchName - This command will create a new branch and you will get into that branch.
+
+git merge branchName - This command will merge the Current branch into target branch
+
+git branch -d branchName -This Command will delete the will delete the target branch , but make sure you checkout from that branch , that you wanna delete.
+S
