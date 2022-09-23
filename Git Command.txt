@@ -13,4 +13,8 @@ git checkout -b branchName - This command will create a new branch and you will 
 git merge branchName - This command will merge the Current branch into target branch
 
 git branch -d branchName -This Command will delete the will delete the target branch , but make sure you checkout from that branch , that you wanna delete.
-S
+
+git remote - This command is used to named all the remote (Repo hosted on the server) in the git repo
+
+git remote add origin https://github.com/nchandel2420/GitLearning.git - This command will add remote on git in your local 
+and the name of your remote will be origin
