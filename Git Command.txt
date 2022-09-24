@@ -18,3 +18,5 @@ git remote - This command is used to named all the remote (Repo hosted on the se
 
 git remote add origin https://github.com/nchandel2420/GitLearning.git - This command will add remote on git in your local 
 and the name of your remote will be origin
+
+git push --set-upstream origin preprod : This command will create a preprod named branch on remote.
